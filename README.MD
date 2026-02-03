@@ -2,7 +2,7 @@
 
 Version: 2.0 Release Date: January 29, 2026
 
-License URL: https://oac.ac.cn/OACLv2-paper-code.html
+License URL: https://oac.ac.cn/?p=231
 
 ## Introduction 
 With the deepening development of open science, the free flow of academic knowledge is crucial to human progress. This license is specifically designed for the open source requirements of academic paper code, adhering to the Ultra Open Access principle to ensure the complete openness, immediate availability, and collaborative friendliness of academic code. This license emphasizes the core values ​​of the academic community, eliminates unnecessary barriers to knowledge dissemination, and protects the legitimate rights of authors.
